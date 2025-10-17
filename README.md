@@ -1,4 +1,8 @@
-[![Header](https://github.com/robertpettis/robertpettis/blob/main/header_graphic.png "Header")](https://pettis.synology.me/)
+<p align="center">
+  <a href="https://pettis.synology.me/">
+    <img src="https://github.com/robertpettis/robertpettis/blob/main/header_graphic.png" alt="Header" width="50%">
+  </a>
+</p>
 
 **Economist | Data Scientist | Policy Researcher**
 
