@@ -6,7 +6,7 @@
 
 **Economist | Data Scientist | Policy Researcher**
 
-I use data, econometrics, and applied machine learning to understand how policy decisions shape people’s lives — from criminal justice reform to economic inequality and public safety. My work blends causal inference, data engineering, and clear communication to help decision-makers see what the data really says.
+I use data, econometrics, and applied machine learning to understand how policy decisions shape people’s lives — from criminal justice reform to economic inequality and public safety.
 
 ---
 
