@@ -13,7 +13,7 @@ I use econometrics and applied machine learning to understand how policy decisio
 ## 🧠 About Me
 
 - 🎓 **PhD in Economics** from the University of South Carolina  
-- 🧮 11+ years of experience in quantitative research, applied statistics, and data science  
+- 🧮 Decades of experience in quantitative research, applied statistics, and data science  
 - 🗞️ Published in *The Journal of Law & Economics* (2022): *Pride and Prejudice: Same-Sex Marriage Legalization Announcements & Hate Crimes*  
 
 ---
